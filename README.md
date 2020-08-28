@@ -6,6 +6,7 @@
 - https://gorails.com/
 - https://open.appacademy.io/learn/full-stack-online/ruby
 - https://www.codecademy.com/learn/learn-ruby
+- https://thoughtbot.com/upcase/
 
 ## Books 
 
